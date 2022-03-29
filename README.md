@@ -8,7 +8,7 @@
  -HTML;
  -CSS.
  
- **Começando**
+ **Começando:**
 Para abrir este projeto localmente, é necessário as seguintes configurações;
 
 ```Instalação
